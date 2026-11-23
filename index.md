@@ -2,7 +2,7 @@
 
 C.V. Starr Postdoctoral Fellow · Princeton Neuroscience Institute & Ecology and Evolutionary Biology, Princeton University
 
-<img src="./headshot.jpg" alt="Portrait of Lukas Weiss" width="200">
+<img src="./headshot.jpg.jpg" alt="Portrait of Lukas Weiss" width="200">
 
 I’m a neuroethologist interested in how changes in the nervous system give rise to new behaviors. I study this question across insects and vertebrates, with a particular focus on the sense of smell.
 Research
